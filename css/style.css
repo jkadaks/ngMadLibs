@@ -1,0 +1,49 @@
+
+div {
+    border-style: solid;
+    font-family: sans-serif;
+}
+
+.body-content {
+    margin: auto;
+    width: 50%;
+    padding: 0px;
+    margin-top: 25px;
+}
+
+.width_80 {
+    width: 77.6%;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.center {
+    width: 90%;
+    text-align: center;
+    display:block;
+    margin:auto;
+}
+
+span {
+    font-size:50px;
+    padding-bottom: 20px;
+}
+
+.padding {
+    padding: 20px 40px 20px 40px;
+}
+
+.page-font {
+    font-size: 20px;
+}
+
+input[type="text"]
+{
+    font-size:20px;
+}
